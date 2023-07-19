@@ -1,0 +1,15 @@
+\hbox to \linewidth {\hfill Page}
+\contentsline {chapter}{LIST OF TABLES}{vii}{chapter*.2}%
+\contentsline {chapter}{LIST OF FIGURES}{viii}{chapter*.3}%
+\noindent CHAPTER 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}BACKGROUND}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}NETWORK MODEL FOR DIGITAL DEMOCRACY}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}API DESIGN}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}IMPLEMENTATION}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}EVALUATION OF NETWORK MODEL}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}EVALUATION OF API}{7}{chapter.7}%
+\contentsline {chapter}{\numberline {8}CONCLUSION}{8}{chapter.8}%
+\contentsline {chapter}{BIBLIOGRAPHY}{9}{chapter*.4}%
+\let \l@chapter \l@section 
+\noindent APPENDICES 
